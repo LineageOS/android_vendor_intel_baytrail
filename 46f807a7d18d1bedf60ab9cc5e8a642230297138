@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_0aab988a",
+        "filename": "minnow_64p/cm.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-06-04T11:39:07Z",
+      "side": 1,
+      "message": "These need to be fixed.",
+      "revId": "46f807a7d18d1bedf60ab9cc5e8a642230297138",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_4a95a03e",
+        "filename": "minnow_64p/cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-06-04T11:39:07Z",
+      "side": 1,
+      "message": "This should be fixed.",
+      "revId": "46f807a7d18d1bedf60ab9cc5e8a642230297138",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_8a9fa85e",
+        "filename": "minnow_max/cm.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-06-04T11:39:07Z",
+      "side": 1,
+      "message": "These need to be fixed.",
+      "revId": "46f807a7d18d1bedf60ab9cc5e8a642230297138",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ca87f010",
+        "filename": "minnow_max/cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-06-04T11:39:07Z",
+      "side": 1,
+      "message": "Minnowboard does not have Wifi, remove this.",
+      "revId": "46f807a7d18d1bedf60ab9cc5e8a642230297138",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_ea8cac37",
+        "filename": "vendorsetup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-06-04T11:39:07Z",
+      "side": 1,
+      "message": "should probably be cm_minnow_max-userdebug",
+      "revId": "46f807a7d18d1bedf60ab9cc5e8a642230297138",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
